@@ -6,7 +6,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 - 🏦 I'm a Data Scientist passionate about AI :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. 
-- 🌱 I’m working at **LCL Bank**
+- 🌱 I’m working at **BNP Paribas**
 - ⚡ I **strongly** believe in climate change and that protecting our planet starts with each of us.
 
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
