@@ -17,6 +17,16 @@
   - [ ] Image recognition
   - [ ] Web Scrapping 
 
+
+<div align="center" vertical-align="middle">
+    <a href="https://github.com/amajji" targer="_blank"> 
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=amajji&show_icons=true&theme=tokyonight&disable_animations=false"> &nbsp;
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amajji&layout=compact&theme=tokyonight&langs_count=6&hide=ShaderLab"> 
+    </a>
+</div>
+
+
+
 ### My skills include 
 
 <p align="center">
