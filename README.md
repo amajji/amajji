@@ -18,7 +18,7 @@
   - [ ] NLP models especially Text classification models
   - [ ] Image recognition
   - [ ] Web Scrapping 
-
+  
 
 <div align="center" vertical-align="middle">
     <a href="https://github.com/amajji" targer="_blank"> 
