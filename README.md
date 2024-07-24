@@ -15,11 +15,10 @@
 - 💬 Talk to me about Formula 1 :racing_car:, Memes, cryptocurrency, Movies 🎥.
 - 🔭 I’m currently working on:
   - [ ] **LLM** : Building a RAG system (Retrieval-Augmented Generation), designed to revolutionize the way we extract informations and summarize documents.
-  - [ ] **Fraud detection**
   - [ ] **NLP models especially Text classification models**
   - [ ] **Image recognition**
   - [ ] **Web Scrapping**
-
+  - [ ] **Fraud detection**
 
 
 <div align="center" vertical-align="middle">
