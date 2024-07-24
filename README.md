@@ -8,7 +8,7 @@
 
 
 ### About Me:
-
+fjbjmbrefv
 - 🏦 I'm a Data Scientist passionate about AI :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. 
 - 🌱 I’m working at **BNP Paribas**
 - ⚡ I **strongly** believe in climate change and that protecting our planet starts with each of us.
