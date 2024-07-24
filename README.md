@@ -7,7 +7,7 @@
 </center>
 
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+### About Me:
 
 - 🏦 I'm a Data Scientist passionate about AI :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. 
 - 🌱 I’m working at **BNP Paribas**
